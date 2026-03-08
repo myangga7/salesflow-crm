@@ -54,12 +54,12 @@ export default function LandingPage() {
       <section className="pt-32 pb-16 px-4 md:pt-40 md:pb-24 bg-gradient-to-b from-blue-50 to-white">
         <div className="max-w-6xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-            Kelola Leads dan Customer
-            <span className="text-blue-600"> Lebih Efisien</span>
+            Manage Leads and Customers
+            <span className="text-blue-600"> More Efficiently</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            SalesFlow membantu tim sales mengelola leads, melacak aktivitas, dan
-            meningkatkan konversi dalam satu platform terintegrasi.
+            SalesFlow helps sales teams manage leads, track activity, and
+            improve conversions in one integrated platform.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/register">
@@ -67,13 +67,13 @@ export default function LandingPage() {
                 size="lg"
                 className="bg-blue-600 hover:bg-blue-700 text-lg px-8"
               >
-                Mulai Gratis
+                Start Free
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </Link>
             <Link href="#demo">
               <Button size="lg" variant="outline" className="text-lg px-8">
-                Lihat Demo
+                View Demo
               </Button>
             </Link>
           </div>
@@ -100,10 +100,10 @@ export default function LandingPage() {
       <section id="features" className="py-20 px-4 bg-white">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">
-            Fitur Lengkap untuk Tim Sales
+            Complete Features for Sales Teams
           </h2>
           <p className="text-xl text-gray-600 text-center mb-12 max-w-2xl mx-auto">
-            Semua yang Anda butuhkan untuk mengelola pipeline penjualan
+            Everything you need to manage your sales pipeline
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -113,8 +113,8 @@ export default function LandingPage() {
               </div>
               <h3 className="text-xl font-semibold mb-2">Lead Management</h3>
               <p className="text-gray-600">
-                Kelola leads dengan mudah, track status, dan riwayat interaksi
-                dalam satu tempat.
+                Easily manage leads, track status, and view interaction history
+                in one place.
               </p>
             </div>
 
@@ -124,8 +124,8 @@ export default function LandingPage() {
               </div>
               <h3 className="text-xl font-semibold mb-2">Pipeline Visual</h3>
               <p className="text-gray-600">
-                Lihat progress leads Anda dalam pipeline yang jelas dan mudah
-                dipahami.
+                See your leads' progress in a clear, easy-to-understand
+                pipeline.
               </p>
             </div>
 
@@ -137,8 +137,8 @@ export default function LandingPage() {
                 Analytics Real-time
               </h3>
               <p className="text-gray-600">
-                Dashboard interaktif dengan metrik penting untuk mengukur
-                performa tim.
+                An interactive dashboard with key metrics to measure team
+                performance.
               </p>
             </div>
 
@@ -148,7 +148,7 @@ export default function LandingPage() {
               </div>
               <h3 className="text-xl font-semibold mb-2">Activity Tracking</h3>
               <p className="text-gray-600">
-                Catat setiap interaksi dengan leads: calls, emails, meetings.
+                Record every interaction with leads: calls, emails, meetings.
               </p>
             </div>
 
@@ -158,7 +158,7 @@ export default function LandingPage() {
               </div>
               <h3 className="text-xl font-semibold mb-2">Data Security</h3>
               <p className="text-gray-600">
-                Data Anda aman dengan enkripsi dan autentikasi yang kuat.
+                Your data is secure with strong encryption and authentication.
               </p>
             </div>
 
@@ -168,7 +168,7 @@ export default function LandingPage() {
               </div>
               <h3 className="text-xl font-semibold mb-2">Fast Performance</h3>
               <p className="text-gray-600">
-                Dibangun dengan teknologi modern untuk performa optimal.
+                Built with modern technology for optimal performance.
               </p>
             </div>
           </div>
@@ -179,10 +179,10 @@ export default function LandingPage() {
       <section className="py-20 px-4 bg-blue-600">
         <div className="max-w-4xl mx-auto text-center text-white">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Siap Meningkatkan Penjualan?
+            Ready to Increase Sales?
           </h2>
           <p className="text-xl mb-8 text-blue-100">
-            Mulai kelola leads Anda dengan lebih efisien hari ini.
+            Start managing your leads more efficiently today.
           </p>
           <Link href="/register">
             <Button
@@ -190,7 +190,7 @@ export default function LandingPage() {
               variant="secondary"
               className="text-lg px-8 bg-white text-blue-600 hover:bg-gray-100"
             >
-              Daftar Sekarang
+              Register Now
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
           </Link>
@@ -200,7 +200,7 @@ export default function LandingPage() {
       {/* FOOTER */}
       <footer className="py-8 px-4 bg-gray-50">
         <div className="max-w-6xl mx-auto text-center text-gray-600">
-          <p>© 2024 SalesFlow. All rights reserved.</p>
+          <p>Angga © 2026 SalesFlow. All rights reserved.</p>
         </div>
       </footer>
     </div>

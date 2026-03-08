@@ -2,7 +2,7 @@
 
 ![SalesFlow CRM Dashboard](https://via.placeholder.com/1200x630/111827/3b82f6?text=SalesFlow+CRM+Dashboard)
 
-## 🚀 [Live Demo](https://salesflow-crm.vercel.app) | [GitHub Repository](https://github.com/myangga7/salesflow-crm)
+## ## 🚀 Live Demo: [https://salesflow-crm-lime.vercel.app](https://salesflow-crm-lime.vercel.app)
 
 > A modern CRM built to help sales teams manage leads, track activities, and improve conversions. This project is designed as a portfolio piece to demonstrate fullstack development skills with cutting-edge technologies.
 
